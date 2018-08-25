@@ -1,6 +1,13 @@
-# Wt2App
+# 概要
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
+Wine Mates アプリケーション - Wine Tracking & Tracing(WT2) 管理UI
+
+[基本機能] TODO:
+* トラッキング
+* 流通経路検索
+* 事業者ID管理
+* 事業者情報管理 (登録/変更/削除) 
+* 事業者情報検索
 
 ## Development server
 
